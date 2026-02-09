@@ -46,4 +46,4 @@ check for 50% off after flat50%
 
 ## Reflection (1–2 lines)
 What is **one thing** you understood better about testing or CI after this workshop?
-
+Testing is about catching failures early, and CI makes sure tests always run automatically—so broken code never gets merged, regardless of human discipline.
