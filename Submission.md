@@ -40,7 +40,7 @@ check for 50% off after flat50%
 
 ## CI Pipeline (if implemented)
 - Did CI pass successfully? (Yes)
-- GitHub Actions Run URL:
+- GitHub Actions Run URL:https://github.com/hk2166/jest-workshop/actions/runs/21825843378
 
 ---
 
