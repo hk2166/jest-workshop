@@ -1,4 +1,4 @@
-function calculateFinalAmount(subtotal, coupon) {
+ function calculateFinalAmount(subtotal, coupon) {
   if (typeof subtotal !== "number" || Number.isNaN(subtotal) || subtotal < 0) {
     throw new Error("Invalid subtotal");
   }
